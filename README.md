@@ -66,12 +66,13 @@ automacao-cypress/
 
 ### Modo Headless (sem interface gráfica)
 ```bash
-npx cypress run --browser chrome --headed
+npx cypress run
 ```
 
-### Modo Interativo
+### Modo Interativo (com navegador visível)
 ```bash
-npx cypress run --browser chrome
+npx cypress run --headed --browser chrome
+
 ```
 
 ## 🔍 Page Objects
