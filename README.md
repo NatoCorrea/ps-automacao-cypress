@@ -12,7 +12,7 @@ Este projeto contém testes automatizados usando Cypress com duas abordagens dif
 
 1. Clone o repositório:
 ```bash
-git clone git@github.com:NatoCorrea/automacao-cypress.git
+git clone git@github.com:NatoCorrea/ps-automacao-cypress.git
 ```
 
 2. Instale as dependências:
