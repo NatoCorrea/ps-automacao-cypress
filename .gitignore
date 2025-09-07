@@ -1,0 +1,23 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar diretórios de build (caso existam no futuro)
+dist/
+build/
+
+# Ignorar caches do Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Ignorar arquivos de sistema do VSCode
+.vscode/
+
+# Ignorar arquivos de sistema do OS
+.DS_Store
+Thumbs.db
