@@ -82,10 +82,10 @@ O projeto utiliza o padrão Page Object Model (POM) para melhor organização e 
 ## 📷 Screenshots
 
 Os screenshots são capturados automaticamente durante a execução dos testes:
-- **yahooTests.cy.js**: Salva como 'yahoo-direct-search-results'
-- **yahooTestsPOM.cy.js**: Salva como 'yahoo-search-results'
-- **uolTests.cy.js**: Salva como 'uol-direct-search-results'
-- **uolTestsPOM.cy.js**: Salva como 'uol-search-results'
+- **yahooTests.cy.js**: Salva como 'yahoo-direct-results'
+- **yahooTestsPOM.cy.js**: Salva como 'yahoo-results'
+- **uolTests.cy.js**: Salva como 'uol-direct-results'
+- **uolTestsPOM.cy.js**: Salva como 'uol-results'
 
 Localização dos screenshots:
 - `cypress/screenshots/` (após execução dos testes)
